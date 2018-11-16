@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="2008">Introduction to Linux</titulo>
+		<autor>
+		    <nombre apellido = "Kafernawi" apellido2="Benavent">
+		    	<nom>Machtelt</nom> 
+		    	<calle>Av. Algemesí</calle>
+		    	<numero_vivienda>116</numero_vivienda>
+		    	<ciudad_residente>Barcelona</ciudad_residente>
+		    </nombre>
+		    <nombre apellido = "Villalba" >
+		   		<nom>Garrels</nom> 
+		    	<calle>Calle Mayor</calle>	
+		    	<numero_vivienda>91</numero_vivienda>
+		    	<ciudad_residente>Madrid</ciudad_residente>
+		    </nombre>	
+		</autor>
+		<editor>O'Reilly</editor>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1991">El lenguaje de programación C</titulo>
+		<autor>
+		    <nombre apellido = "Gomez">
+		    	<nom>Kernighan</nom> 
+		    	<calle>Calle Los Alamos</calle>
+		    	<numero_vivienda>87</numero_vivienda>
+		    	<ciudad_residente>Vitoria</ciudad_residente>
+		    </nombre> 
+		    <nombre apellido = "Ruiz">
+		    	<nom>Ritchie</nom> 
+		    	<calle>Av. Los Serrano</calle>
+		    	<numero_vivienda>20</numero_vivienda>
+		    	<ciudad_residente>Bilbao</ciudad_residente>
+		    </nombre> 
+		</autor>
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+</biblioteca>
